@@ -1,1 +1,1 @@
-<h1>Halo, ini saya Valrest
+<h1> Halo, ini <?= $nama; ?> </h1>

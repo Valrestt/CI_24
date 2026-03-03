@@ -9,7 +9,7 @@
         <th>Aksi</th>
 </tr>
 
-<?php $no=1; foreach($Kategori as $k): ?>
+<?php $no=1; foreach($kategori as $k): ?>
     <tr>
         <td><?= $no++; ?></td>
         <td><?= $k->nama_kategori; ?></td>
